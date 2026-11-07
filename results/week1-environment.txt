@@ -1,0 +1,30 @@
+===== CS340 Paper 9 Environment =====
+Date: 2026年 11月 08日 星期日 00:19:10 CST
+===== Ubuntu Version =====
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.5 LTS
+Release:	22.04
+Codename:	jammy
+===== Linux Kernel =====
+6.8.0-138-generic
+===== CPU Architecture =====
+x86_64
+===== CPU Information =====
+CPU(s):                                  4
+On-line CPU(s) list:                     0-3
+Model name:                              Intel(R) Core(TM) i9-14900HX
+NUMA node0 CPU(s):                       0-3
+===== Memory =====
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       810Mi       6.1Gi        35Mi       933Mi       6.7Gi
+Swap:          2.0Gi          0B       2.0Gi
+===== GCC Version =====
+gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+===== GCC 12 Version =====
+gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0
+===== Make Version =====
+GNU Make 4.3
+===== Git Version =====
+git version 2.34.1
+===== Environment Check Complete =====
