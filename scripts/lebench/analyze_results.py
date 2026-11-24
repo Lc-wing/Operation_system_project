@@ -4,7 +4,7 @@ import os
 import re
 import statistics
 
-RESULT_DIR = "results"
+RESULT_DIR = "results/lebench"
 
 files = [
     os.path.join(RESULT_DIR,
@@ -62,7 +62,7 @@ output_file = os.path.join(
 )
 
 with open(output_file, "w", newline="") as f:
-    writer = csv.writer(f)
+    writer = csv.writer(f, lineterminator="\n")
 
     writer.writerow([
         "Test", "Metric",

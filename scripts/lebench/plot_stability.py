@@ -2,8 +2,8 @@
 import csv
 import matplotlib.pyplot as plt
 
-input_file = "results/summary_statistics.csv"
-output_file = "results/benchmark_stability.png"
+input_file = "results/lebench/summary_statistics.csv"
+output_file = "results/lebench/benchmark_stability.png"
 
 tests = []
 cv_values = []

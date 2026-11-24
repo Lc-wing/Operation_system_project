@@ -2,8 +2,8 @@
 import csv
 import matplotlib.pyplot as plt
 
-input_file = "results/summary_statistics.csv"
-output_file = "results/benchmark_average.png"
+input_file = "results/lebench/summary_statistics.csv"
+output_file = "results/lebench/benchmark_average.png"
 
 tests = []
 times = []
